@@ -97,7 +97,7 @@ export default function Home() {
     <main className="hero">
       <div className="hero-content">
         <span className="greeting">Olá, sou</span>
-        <h1>Eduardo <br /> Dani silva</h1>
+        <h1>Samuel <br /> Samuel Santana</h1>
         <p className="subtitle">Desenvolvedor Web</p>
         
         <div className="actions">
