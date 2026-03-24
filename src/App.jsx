@@ -14,7 +14,7 @@ function App() {
         <nav className="navbar">
           <Link to="/" className="logo">
             <img src={reactIcon} alt="React" className="react-logo" />
-            EDUARDO
+            SAMUCA
           </Link>
           <ul className="nav-links">
             <li><Link to="/">HOME</Link></li>
